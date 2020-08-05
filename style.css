@@ -1,9 +1,33 @@
-h1{
-	background-color: #5498f096;
-	color: green;
-	text-align: center;
+body {
+	background-image: linear-gradient(to right, rgb(63, 119, 222), rgb(194, 73, 202));
+	margin: 0;
 }
+
+ul {
+	margin: 0;
+	padding: 0;
+	display: inline-flex;
+	float: right;
+}
+
+
+
+li {
+	list-style: none;
+	margin: 0 2vw;
+}
+
 .navbar {
-	background-color: green;
+	width: 100vw;
+	background-color: #68fffc;
+}
+
+a:hover {
+}
+
+a {
+	text-decoration: none;
+	font-size: 4em;
 
 }
+
