@@ -1,10 +1,13 @@
 
-/* Hello dear CSS er's this code has also been taken from w3schools.com sample. */
-body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
+/* Hello dear devop's this code has also been taken from w3schools.com sample. */
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;
+  font-size: x-large;
+}
 body, html {
 /*dackground-image: linear-gradient(to right, rgb(63, 119, 222), rgb(239, 239, 239));*/
   height: 100%;
   color: #777;
+  size: 150%;
   line-height: 1.8;
 }
 
